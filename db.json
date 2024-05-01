@@ -1,3 +1,4 @@
+
 {
   "weathers": [
     {
@@ -5,28 +6,29 @@
       "degree": "33",
       "day": "Monday",
       "date": "2024-05-01",
-      "image": "rainy.png"
+      "image": "clear.png"
     },
     {
       "id": 2,
       "degree": "28",
       "day": "Tuesday",
       "date": "2024-05-02",
-      "image": "cloudy.png"
+      "image": "mcloudy.png"
     },
     {
       "id": 3,
       "degree": "31",
       "day": "Wednesday",
       "date": "2024-05-03",
-      "image": "mcloudy.png"
+      "image": "cloudy.png"
     },
     {
       "id": 4,
       "degree": "14",
       "day": "Thursday",
       "date": "2024-05-04",
-      "image": "clear.png"
+      "image": "rainy.png"
+
     },
     {
       "id": 5,
